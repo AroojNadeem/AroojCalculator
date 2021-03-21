@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AroojCalculator</string>
+    <string-array name="dropdown" >
+        <item>
+            +
+        </item>
+        <item>
+           -
+        </item>
+        <item>
+           *
+        </item>
+        <item>
+          /
+        </item>
+
+    </string-array>
+</resources>
